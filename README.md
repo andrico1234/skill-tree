@@ -129,7 +129,7 @@ const data: SkillType[] = [
         title: 'Hello Sun',
         tooltip: {
           content:
-            'This is a parent of the top node, and will locked while the parent isn’t in a selected state.',
+            'This is a child of the top node, and will be locked while the parent isn’t in a selected state.',
         },
         children: [],
       },
